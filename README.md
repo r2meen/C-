@@ -1,1 +1,1 @@
-A small project involving the concept of staright line and GUI
+A small project involving the concept of straight line and GUI
